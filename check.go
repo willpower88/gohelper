@@ -1,4 +1,4 @@
-package tools
+package gohelper
 
 //error检查
 func CheckError(err error) {
